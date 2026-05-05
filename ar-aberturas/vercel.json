@@ -1,5 +1,5 @@
 {
-  "buildCommand": "npm run build",
-  "outputDirectory": ".output/public",
-  "installCommand": "npm install"
+  "buildCommand": "cd ar-aberturas && npm run build",
+  "outputDirectory": "ar-aberturas/.next",
+  "installCommand": "cd ar-aberturas && npm install"
 }
