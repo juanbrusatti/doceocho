@@ -1,5 +1,0 @@
-{
-  "buildCommand": "cd ar-aberturas && npm run build",
-  "outputDirectory": "ar-aberturas/.next",
-  "installCommand": "cd ar-aberturas && npm install"
-}
